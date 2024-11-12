@@ -1,0 +1,181 @@
+.header{
+height: 9vh;
+width: 101vw;
+background-color: rgb(201, 48, 94);
+padding: 10px;
+}
+/* Верхняя строка */
+h1{
+font-size: xx-large;
+color: white;
+text-align: center;
+margin-left: -0.3rem;
+}
+button{
+height: 3rem;
+width: 14.3rem;
+background-color: rgb(201, 48, 94);
+color: white;
+border: none;
+border-radius: 10px;
+}
+button:hover{
+background-color: rgb(228, 101, 139);
+transition: 0.5s;
+/* стиль для кнопок */
+}
+.but{
+    margin-top: 1rem;
+    margin-left:1.5vw;
+    height: 3rem;
+width: 14.3rem;
+background-color: rgb(201, 48, 94);
+color: white;
+border: none;
+border-radius: 10px;
+}
+.but2{
+    margin-top: 1rem;
+    margin-left:41vw;
+}
+.Fio{
+margin-top: 1rem;
+margin-left: 1.5vw;
+}
+.email1{
+    margin-top: 1rem;
+    margin-left: 1.5vw;
+}
+.pass{
+    margin-top: 1rem;
+    margin-left: 1.5vw;
+}
+input{
+    height: 30px;
+    width: 220px;
+    border-radius: 0.4rem;
+}
+/* строки ввода */
+textarea{
+    height: 100px;
+    width: 300PX;
+    resize: none;
+    border-radius: 0.4rem;
+}
+/* многострочное поле ввода вид */
+.order{
+    margin-top: 0vh;
+    margin-left: 41vw;
+}
+.order2{
+    margin-top: 0vh;
+    margin-left: 21vw;
+}
+h2{
+font-size: 29px;
+}
+.order-text
+{
+border-radius: 0.4rem;
+height: 7rem;
+width: 24rem;
+border:solid 1px;
+border-color:black;
+margin-top: 2rem;
+margin-left: 33rem;
+}
+.nomer{
+    margin-top: -73vh;
+    margin-left: 21vw;
+}
+
+h4{
+color: white;
+margin-left: 1vw;
+}
+html{
+overflow: hidden;
+background-color: rgb(232, 233, 236);
+}
+a{
+color: white;
+text-decoration: none;
+}
+.footnote{
+height: 67vh;
+width: 20vw;
+background-color: white;
+border-radius: 0.2rem;
+margin-left: 40vw;
+box-shadow: 7px 5px 5px rgba(0, 0, 0, 0.247);
+
+}
+    /* Контейнер для содержащего кода */
+.footnote2{
+    height: 66vh;
+    width: 60vw;
+    background-color: white;
+    border-radius: 0.2rem;
+    margin-left: 25vw;
+    box-shadow: 7px 5px 5px rgba(0, 0, 0, 0.247);
+    margin-top: 10vh;
+    }   
+        /* Контейнер для содержащего кода */
+.num{
+    margin-top: 1rem;
+ margin-left: 1.5vw;
+}
+.log{
+    margin-top: 1rem;
+    margin-left: 1.5vw;
+}
+.a1{
+color: black;}
+.a1:hover{
+transition: 0.3s;
+color: rgb(63, 82, 170);
+text-decoration: underline;
+}
+.login{
+    margin-top: 1rem;
+    margin-left: 1.5vw;
+}
+.adlog{
+    margin-top: 1rem;
+    margin-left: 1.5vw;
+}
+.footnotead{
+    height: 40vh;
+    width: 20vw;
+    background-color: white;
+    border-radius: 0.2rem;
+    margin-left: 40vw;
+    box-shadow: 7px 5px 5px rgba(0, 0, 0, 0.247);
+    }
+        /* Контейнер для содержащего кода */
+.butpos{
+margin-left: 0vw;
+margin-top: 1vh;
+}
+.selestna{
+margin-top: 10vh;
+margin-left:1vw;
+font-size: 10vw;}
+.pos{
+margin-top:5vh ;
+margin-left: 5vw;}
+.p1{
+word-spacing: 40px;
+margin-top: -3vw;
+margin-left: 70vw;
+}
+.footnote3{
+    height: 66vh;
+    width: 60vw;
+    background-color: white;
+    border-radius: 0.2rem;
+    margin-left: 25vw;
+    box-shadow: 7px 5px 5px rgba(0, 0, 0, 0.247);
+    margin-top: 80vh;
+    }   
+    /* Контейнер для содержащего кода */
